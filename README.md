@@ -3,7 +3,7 @@
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Olá 👋
-Sou focado em React, busca de oportunidades e colaboração em projetos relacionados a desenvolvimento web de dados e aprendizado profundo.
+Sou focado em React, busca de oportunidades e colaboração em projetos relacionados a desenvolvimento web.
 - 🔭 Atualmente a procura de oportunidades (além disso, estou aprimorando minhas habilidades regularmente)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Ramon-Dias)
