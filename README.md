@@ -2,7 +2,7 @@
 
 
 ### Olá 👋
-Sou focado em React, busca de oportunidades e colaboração em projetos relacionados a desenvolvimento web.
+Sou focado em React e Vtex IO, busca de oportunidades e colaboração em projetos relacionados a desenvolvimento web.
 - 🔭 Atualmente a procura de oportunidades (além disso, estou aprimorando minhas habilidades regularmente)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Ramon-Dias)
