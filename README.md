@@ -1,6 +1,5 @@
 # Ramon Dias Ferreira
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
 
 ### Olá 👋
 Sou focado em React, busca de oportunidades e colaboração em projetos relacionados a desenvolvimento web.
